@@ -1,0 +1,55 @@
+
+.paddingg{
+	padding-right: 590px;
+}
+.padding {
+	padding-left: 16px;
+}
+.oneline {
+	diplay: inline-block;
+}
+
+.lower {
+	top: 37px;
+}
+.ddivider{
+	width:60px;
+    height: 25px;
+    display:inline-block;
+    left: 0px;
+}
+
+.tt-search{
+	width: 195px !important;
+}
+
+.t-search {
+
+width: 700px !important;
+
+}
+
+body {
+
+
+
+padding-top: 40px;
+
+background-color: #e9eaed;
+
+}
+.divider{
+    width:30px;
+    height:auto;
+    display:inline-block;
+    left: 40px;
+}
+.dividder{
+	text-align: center;
+	position: absolute;
+}
+
+.nav {
+	margin-left: 25px;
+	height: 42px;
+}
